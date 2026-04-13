@@ -1,0 +1,16 @@
+region,pillar,metric,threshold_value,unit,source,effective_year
+UAE,Environmental,min_renewable_energy_pct,10.0,%,UAE Net Zero 2050,2024
+UAE,Social,min_female_board_pct,20.0,%,SCA Governance Code,2024
+UAE,Governance,min_independent_directors,2.0,count,SCA Governance Code,2024
+UAE,Governance,max_regulatory_fines_usd,100000.0,USD,UAE Reg Authority,2024
+KSA,Environmental,min_renewable_energy_pct,12.0,%,Saudi Vision 2030,2024
+KSA,Social,min_female_board_pct,15.0,%,CMA Governance Regs,2024
+KSA,Governance,min_independent_directors,2.0,count,CMA Governance Regs,2024
+Qatar,Environmental,min_renewable_energy_pct,8.0,%,Qatar NDC 2030,2024
+Qatar,Social,min_female_board_pct,10.0,%,QFC Governance Regs,2024
+Kuwait,Environmental,min_renewable_energy_pct,5.0,%,Kuwait Vision 2035,2024
+Bahrain,Social,min_female_board_pct,15.0,%,MOIC Governance,2024
+Oman,Environmental,min_renewable_energy_pct,10.0,%,Oman Vision 2040,2024
+GCC,Environmental,max_scope1_intensity,5.0,tCO2e/USD_M,GCC ESG Accord,2024
+GCC,Social,max_injury_rate,2.0,per 100 employees,ILO Standard,2024
+GCC,Governance,esg_report_mandatory,1.0,boolean,GCC ESG Disclosure,2025
